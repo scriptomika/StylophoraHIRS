@@ -1,6 +1,7 @@
 # StylophoraHIRS
 
-This repository contains the scripts used to analyze diazotroph (nifH) and *Symbiodinium* (ITS) diversity in *Stylophora pistillata*.
+This repository contains the scripts used to analyze diazotroph (nifH) and *Symbiodinium* (ITS) diversity for the study:
+> MP Lesser, KM Morrow, MS Pankey. ISME J (in press). Diazotroph diversity and nitrogen fixation in the coral *Stylophora pistillata* from the Great Barrier Reef. 
 
 Raw data is available at NCBI SRA for [BioProject PRJNA390752](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA390752)
 
