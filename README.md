@@ -19,7 +19,8 @@ Raw data is available at NCBI SRA for [BioProject PRJNA390752](https://www.ncbi.
 * R script for statistical analysis and plots
 
 ### *Symbiodinium* ITS analysis files
-* shell scripts to run SymTyper pipeline.
+
+* Shell scripts to run SymTyper pipeline
   -SymTyper pipeline executables available [here](https://github.com/UH-Bioinformatics/symTyper/tree/master/commands)
   -includes modified version of core symtyper.py script
 
