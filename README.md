@@ -11,9 +11,9 @@ Raw data is available at NCBI SRA for [BioProject PRJNA390752](https://www.ncbi.
 * Metadata info for each sample
 
 * Phylogenetic analyses. Scripts require taxadiva nifH database. Selected outputs are provided:
-  -allseqs.aa.phylip : alignment of all novel predicted NifH and taxadiva reference sequences. Also includes chlorophyllide reductases (Cluster V nifH-like paralogs)
-  -RAxML_bestTree.allseqs: ML phylogeny of all novel + reference NifH sequences
-  -RAxML_bipartitions.bootslabel: ML phylogeny of novel + reference NifH sequences from clusters I-III, with bootstrap supports
+  - allseqs.aa.phylip : alignment of all novel predicted NifH and taxadiva reference sequences. Also includes chlorophyllide reductases (Cluster V nifH-like paralogs)
+  - RAxML_bestTree.allseqs: ML phylogeny of all novel + reference NifH sequences
+  - RAxML_bipartitions.bootslabel: ML phylogeny of novel + reference NifH sequences from clusters I-III, with bootstrap supports
 
 
 * R script for statistical analysis and plots
@@ -21,8 +21,8 @@ Raw data is available at NCBI SRA for [BioProject PRJNA390752](https://www.ncbi.
 ### *Symbiodinium* ITS analysis files
 
 * Shell scripts to run SymTyper pipeline
-  -SymTyper pipeline executables available [here](https://github.com/UH-Bioinformatics/symTyper/tree/master/commands)
-  -includes modified version of core symtyper.py script
+  - SymTyper pipeline executables available [here](https://github.com/UH-Bioinformatics/symTyper/tree/master/commands)
+  - includes modified version of core symtyper.py script
 
 * R script to analyze *Symbiodinium* phylotype counts from *Stylophora* samples
-  -selected outputs from SymTyper included
+  - selected outputs from SymTyper included
